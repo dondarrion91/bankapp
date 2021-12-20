@@ -2,6 +2,8 @@
 
 REST API para la gestion de homebanking
 
+## Autor: Julian Alejandro Sanchez
+
 ## Setup
 
 Para probar el proyecto en modo de desarrollo es necesario tener instalado `docker` y `docker-compose`
